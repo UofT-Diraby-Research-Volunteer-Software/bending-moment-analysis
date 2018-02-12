@@ -1,5 +1,5 @@
 # bending-moment-analysis
-## Muffin/"Analyse this" Challenge: Description
+## Bending moment diagram analysis for trains
 
 This software was designed by Dhruv Warrier and Salar Khan.
 
@@ -18,7 +18,7 @@ You can interact with the software in the following ways:
 
 ## Notes
 
-Please run this in fullscreen for proper display of the UI.
+Please run this in fullscreen for proper display of the user interface.
 
 We have aimed for abstraction in our code, so that in the future our code can easily be used to solve more complex problems along the same vein. The code we have written is general instead of specific, allowing it to be generalised to other projects. We have also followed proper industry standards in writing our code: maintaining transparent variable and function names, and organising all the code such that it is easy to read and understand.
 
