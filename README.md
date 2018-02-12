@@ -1,6 +1,8 @@
 # bending-moment-analysis
 ## Muffin/"Analyse this" Challenge: Description
 
+This software was designed by Dhruv Warrier and Salar Khan.
+
 This application helps you determine the maximum bending moment and its position, produced by a train as it passes over a bridge. There are 6 variables that affect the build of the train, and they are L (length of the bridge), n (number of cars in the train), d (the car length), alpha (the percentage of the car length that the tyres are from the edges), W (weight of each train car), and an additional variable linkLength (the length of the chain links between each car). The speed of the train can also be varied in the program.
 
 The software provides the user with a simulation of the train moving across the tracks and dynamically calculates the maximum bending moment and its position for each instant in time, and also keeps track of the overall maximum bending moment for a set of given inputs.
